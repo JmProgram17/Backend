@@ -65,7 +65,7 @@ function deleteProducto(req, res) {
     Carrera.findByIdAndRemove(id, function (err, producto) {
         if (err) {
             return res.json(500, {
-                message: 'No hemos encontrado la carrera'
+                message: 'No hemos encontrado el Producto'
             })
         }
         return res.json(producto)
