@@ -1,21 +1,21 @@
 {
-  "name": "backend1",
+  "name": "backend",
   "version": "1.0.0",
-  "description": "��#\u0000 \u0000b\u0000a\u0000c\u0000k\u0000e\u0000n\u0000d\u0000\r\u0000 \u0000",
+  "description": "backend para mi proyecto",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sebitas23045/backend.git"
+    "url": "https://github.com/JmProgram17/Backend.git"
   },
-  "author": "sebas23045",
-  "license": "ISC",
+  "author": "Julián Castellanos",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sebitas23045/backend/issues"
+    "url": "https://github.com/JmProgram17/Backend/issues"
   },
-  "homepage": "https://github.com/sebitas23045/backend#readme",
+  "homepage": "https://github.com/JmProgram17/backend#readme",
   "dependencies": {
     "bcrypt-nodejs": "^0.0.3",
     "body-parser": "^1.20.3",
